@@ -1,3 +1,11 @@
+> ## → Moved to [anybrowser](https://github.com/erold90/anybrowser-skill)
+> macuse has been rewritten and continues there. **anybrowser** drives your real, signed-in
+> browser (Safari, Chrome, Brave, Edge, Arc) *and* native Mac apps as a signed Swift binary:
+> no AppleScript, real HID input, an accessibility index that's fast even on Gmail, plus a
+> site auditor built on Chrome DevTools. This repo is kept for history.
+
+---
+
 # macuse
 
 A [Claude Code](https://claude.com/claude-code) skill that gives the agent eyes and hands
